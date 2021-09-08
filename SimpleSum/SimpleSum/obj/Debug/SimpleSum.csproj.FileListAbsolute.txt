@@ -1,0 +1,6 @@
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\bin\Debug\SimpleSum.exe.config
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\bin\Debug\SimpleSum.exe
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\bin\Debug\SimpleSum.pdb
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\obj\Debug\SimpleSum.csprojResolveAssemblyReference.cache
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\obj\Debug\SimpleSum.exe
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\SimpleSum\obj\Debug\SimpleSum.pdb

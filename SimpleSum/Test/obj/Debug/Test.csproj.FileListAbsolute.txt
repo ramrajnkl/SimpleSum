@@ -1,0 +1,5 @@
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\Test\bin\Debug\Test.dll
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\Test\bin\Debug\Test.pdb
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\Test\obj\Debug\Test.dll
+c:\users\rmj\documents\visual studio 2012\Projects\SimpleSum\Test\obj\Debug\Test.pdb
